@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>류현우</title>
-    <link>https://heathryu.com/kr/</link>
+    <link>https://heathryu.github.io/kr/</link>
     <description>Recent content on 류현우</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>kr</language>
     
-	<atom:link href="https://heathryu.com/kr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://heathryu.github.io/kr/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
