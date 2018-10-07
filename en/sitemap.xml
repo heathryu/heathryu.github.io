@@ -3,32 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://heathryu.github.io/</loc>
+    <loc>/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://heathryu.github.io/kr/"
+                href="/kr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://heathryu.github.io/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>https://heathryu.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://heathryu.github.io/kr/tags/"
+                href="/kr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://heathryu.github.io/tags/"
+                href="/tags/"
                 />
   </url>
   
