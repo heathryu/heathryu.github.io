@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>일잘러가 되기 위한 한 개발자의 끊임없는 몸부림</title>
-    <link>/kr/</link>
-    <description>Recent content on 일잘러가 되기 위한 한 개발자의 끊임없는 몸부림</description>
+    <title>런던 on 일잘러가 되기 위한 한 개발자의 끊임없는 몸부림</title>
+    <link>/kr/tags/%EB%9F%B0%EB%8D%98/</link>
+    <description>Recent content in 런던 on 일잘러가 되기 위한 한 개발자의 끊임없는 몸부림</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>kr</language>
     <lastBuildDate>Tue, 16 Oct 2018 22:10:37 +0100</lastBuildDate>
     
-	<atom:link href="/kr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/kr/tags/%EB%9F%B0%EB%8D%98/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 류현우, 일잘러가 되기 위한 한 개발자의 끊임없는 몸부림</title>
+    <title>Tags on 일잘러가 되기 위한 한 개발자의 끊임없는 몸부림</title>
     <link>/kr/tags/</link>
-    <description>Recent content in Tags on 류현우, 일잘러가 되기 위한 한 개발자의 끊임없는 몸부림</description>
+    <description>Recent content in Tags on 일잘러가 되기 위한 한 개발자의 끊임없는 몸부림</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>kr</language>
     
 	<atom:link href="/kr/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>개발자</title>
+      <link>/kr/tags/%EA%B0%9C%EB%B0%9C%EC%9E%90/</link>
+      <pubDate>Tue, 16 Oct 2018 22:10:37 +0100</pubDate>
+      
+      <guid>/kr/tags/%EA%B0%9C%EB%B0%9C%EC%9E%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>런던</title>
+      <link>/kr/tags/%EB%9F%B0%EB%8D%98/</link>
+      <pubDate>Tue, 16 Oct 2018 22:10:37 +0100</pubDate>
+      
+      <guid>/kr/tags/%EB%9F%B0%EB%8D%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>생각</title>
+      <link>/kr/tags/%EC%83%9D%EA%B0%81/</link>
+      <pubDate>Tue, 16 Oct 2018 22:10:37 +0100</pubDate>
+      
+      <guid>/kr/tags/%EC%83%9D%EA%B0%81/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
