@@ -6,10 +6,20 @@
     <description>Recent content in 개발자 on 일잘러가 되기 위한 한 개발자의 끊임없는 몸부림</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>kr</language>
-    <lastBuildDate>Thu, 25 Oct 2018 22:38:13 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 31 Dec 2018 18:03:59 +0000</lastBuildDate>
     
 	<atom:link href="/kr/tags/%EA%B0%9C%EB%B0%9C%EC%9E%90/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2018년 회고</title>
+      <link>/kr/2018/12/31/2018%EB%85%84-%ED%9A%8C%EA%B3%A0/</link>
+      <pubDate>Mon, 31 Dec 2018 18:03:59 +0000</pubDate>
+      
+      <guid>/kr/2018/12/31/2018%EB%85%84-%ED%9A%8C%EA%B3%A0/</guid>
+      <description>달력을 보며 올해 시간 너무 빠르다고 얘기하는 것이 진부해 질 쯤 되니 벌써 2018년의 끝자락이다. 유난히 많은 변화를 겪은 한 해이니만큼 치열하게 사느라 자칫 흘러가 버릴 수 있는 것들을 정리해 두고자 한다.
+가장 큰 변화: 20년 넘게 살던 뉴질랜드를 떠나 런던에 오다. &amp;ldquo;런던에 왜 왔어요?&amp;rdquo; 라는 질문은 사실 항상 짧게 대답하기가 곤란하다. 매번 장황하게 답변하기도 좀 그러니까 (사실 그 정도로 절박하게 궁금한 사람도 드물테고) 표면적으론 &amp;ldquo;소프트웨어 엔지니어로서의 역량과 커리어 개발을 위해서&amp;rdquo; 정도로 간단하게 답변하지만 내면적으론 그것만으로 축약하기 어려운 나름의 사유의 시간이 있었다.</description>
+    </item>
     
     <item>
       <title>회사가 먼저 인터뷰 제안을 해온다 - 새로운 방식의 구직 플랫폼 체험기</title>
