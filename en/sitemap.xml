@@ -3,8 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="kr"
+                href="/kr/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/"
+                />
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
@@ -19,7 +32,6 @@
   
   <url>
     <loc>/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"

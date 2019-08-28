@@ -6,6 +6,7 @@
     <description>Recent content in Tags on 일잘러가 되기 위한 끊임없는 몸부림</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>kr</language>
+    <lastBuildDate>Mon, 31 Dec 2018 18:03:59 +0000</lastBuildDate>
     
 	<atom:link href="/kr/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -29,11 +30,11 @@
     </item>
     
     <item>
-      <title>생각</title>
-      <link>/kr/tags/%EC%83%9D%EA%B0%81/</link>
-      <pubDate>Tue, 16 Oct 2018 22:10:37 +0100</pubDate>
+      <title>회고</title>
+      <link>/kr/tags/%ED%9A%8C%EA%B3%A0/</link>
+      <pubDate>Mon, 31 Dec 2018 18:03:59 +0000</pubDate>
       
-      <guid>/kr/tags/%EC%83%9D%EA%B0%81/</guid>
+      <guid>/kr/tags/%ED%9A%8C%EA%B3%A0/</guid>
       <description></description>
     </item>
     
@@ -56,11 +57,11 @@
     </item>
     
     <item>
-      <title>회고</title>
-      <link>/kr/tags/%ED%9A%8C%EA%B3%A0/</link>
-      <pubDate>Mon, 31 Dec 2018 18:03:59 +0000</pubDate>
+      <title>생각</title>
+      <link>/kr/tags/%EC%83%9D%EA%B0%81/</link>
+      <pubDate>Tue, 16 Oct 2018 22:10:37 +0100</pubDate>
       
-      <guid>/kr/tags/%ED%9A%8C%EA%B3%A0/</guid>
+      <guid>/kr/tags/%EC%83%9D%EA%B0%81/</guid>
       <description></description>
     </item>
     
